@@ -1,4 +1,4 @@
-# CodeAlpha FAQ Chatbot
+# FAQ Chatbot
 
 A smart FAQ chatbot built with Python that helps answer frequently asked questions efficiently.
 
@@ -69,7 +69,3 @@ This project is open source and available under the MIT License.
 ## Support
 
 For questions or issues, please open an issue on GitHub.
-
----
-
-**Made with ❤️ by CodeAlpha**
